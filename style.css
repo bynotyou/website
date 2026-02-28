@@ -18,12 +18,12 @@ color: red;
 
 .card {
 
-background-color: blue;
+background-color: darkred;
 
 padding: 5px;
 
-margin: 20px;
+margin: 5px;
 
-border-radius: 5000px;
+border-radius: 10px;
 
 }
