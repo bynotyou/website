@@ -18,12 +18,12 @@ color: cyan;
 
 .card {
 
-background-color: #222;
+background-color: blue;
 
-padding: 20px;
+padding: 40px;
 
-margin: 20px;
+margin: 40px;
 
-border-radius: 10px;
+border-radius: 5px;
 
 }
